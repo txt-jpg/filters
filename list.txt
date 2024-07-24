@@ -4,9 +4,9 @@ www.chessable.com##.promo-sale-banners
 
 
 ! Reddit
-www.google.com##.subgrid-container.m\:col-start-2.box-border.flex.flex-col.order-2.w-full.m\:w-\[1120px\].m\:max-w-\[calc\(100vw-272px\)\].xs\:px-md.mx-auto
-www.reddit.com##.subgrid-container.m\:col-start-2.box-border.flex.flex-col.order-2.w-full.m\:w-\[1120px\].m\:max-w-\[calc\(100vw-272px\)\].xs\:px-md.mx-auto
+!www.google.com##.subgrid-container.m\:col-start-2.box-border.flex.flex-col.order-2.w-full.m\:w-\[1120px\].m\:max-w-\[calc\(100vw-272px\)\].xs\:px-md.mx-auto
+!www.reddit.com##.subgrid-container.m\:col-start-2.box-border.flex.flex-col.order-2.w-full.m\:w-\[1120px\].m\:max-w-\[calc\(100vw-272px\)\].xs\:px-md.mx-auto
 
 ! www.reddit.com###main-content
-
-www.reddit.com##html
+www.reddit.com
+!www.reddit.com##html
